@@ -1,0 +1,111 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/subat/SystemVerilog_Tutorial/lesson_002
+vtb_enum_types
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1768245049
+!i10b 1
+!s100 ];DkAc4>[SB[i_Eb4_:T]2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?6Rz[GEmOjF6]E0d0]lHL2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1768245038
+8tb/tb_enum_types.sv
+Ftb/tb_enum_types.sv
+!i122 22
+L0 9 57
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1768245049.000000
+!s107 tb/tb_enum_types.sv|
+!s90 -work|work|tb/tb_enum_types.sv|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_strings
+R1
+!s110 1768243398
+!i10b 1
+!s100 D<Y[B[X6CYYJaKU_=L7:Q2
+R2
+I9J15_EMLe_2bIAn_6]hiV3
+R3
+S1
+R0
+w1768243395
+8tb/tb_strings.sv
+Ftb/tb_strings.sv
+!i122 6
+L0 1 22
+R4
+r1
+!s85 0
+31
+!s108 1768243398.000000
+!s107 tb/tb_strings.sv|
+!s90 -work|work|tb/tb_strings.sv|
+!i113 1
+R5
+R6
+vtb_struct
+R1
+!s110 1768245867
+!i10b 1
+!s100 [9dkWnE]e7EG[OA7PQ9@H0
+R2
+IN<>X8^=A=h6QYUKFBd;Th0
+R3
+S1
+R0
+w1768245865
+8tb/tb_struct.sv
+Ftb/tb_struct.sv
+!i122 33
+L0 3 29
+R4
+r1
+!s85 0
+31
+!s108 1768245867.000000
+!s107 tb/tb_struct.sv|
+!s90 -work|work|tb/tb_struct.sv|
+!i113 1
+R5
+R6
+vtb_struct_union
+R1
+!s110 1768246471
+!i10b 1
+!s100 @hXnfjzhnEkd_^<M3zC802
+R2
+IoRXA]mGm7Z^4HDJiK0Zk`3
+R3
+S1
+R0
+w1768246409
+8tb/tb_struct_union.sv
+Ftb/tb_struct_union.sv
+!i122 37
+L0 3 46
+R4
+r1
+!s85 0
+31
+!s108 1768246471.000000
+!s107 tb/tb_struct_union.sv|
+!s90 -work|work|tb/tb_struct_union.sv|
+!i113 1
+R5
+R6

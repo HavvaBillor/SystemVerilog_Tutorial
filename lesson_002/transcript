@@ -1,0 +1,11 @@
+# vsim -c -work work tb_struct_union -do "run -all; quit" 
+# Start time: 22:34:32 on Jan 12,2026
+# Loading sv_std.std
+# Loading work.tb_struct_union
+# run -all
+# age: 35, id: 10
+# Data:  deadbecc
+# fbyte:  cc
+#  quit
+# End time: 22:34:33 on Jan 12,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
