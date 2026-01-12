@@ -17,7 +17,6 @@ string      str;            // dinamik uzunluklu karakter dizisi
 
 assign w = r;  // wire tipi bir kaynak tarafından sürülmelidir
 
-
 initial begin
     
 // başlangıç varsayılan değerleri
@@ -67,7 +66,7 @@ initial begin
     $display("shortreal      = %0f",sreal_val);
     $display("string         = \"%s\"(uzunluk = %0d)",str, str.len());
 
-    // $bits() ile bit genişliklerini gösterir
+    // $bits() ile bit genişliklerini gösterir.
     $display("\n-----------[$bits() ile bit genislikleri]---------");
     $display("$bits(bit)         = %0d",  $bits(b));
     $display("$bits(logic)       = %0d",  $bits(l));
