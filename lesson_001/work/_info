@@ -1,0 +1,36 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/subat/SystemVerilog_Tutorial/lesson_001
+vtb_data_types
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1768240878
+!i10b 1
+!s100 l2WX8U@mfk9koZP52T>gE1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I1z1Wg_Bno^aIDz?YG<Xo^0
+VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1768240768
+8tb/tb_data_types.sv
+Ftb/tb_data_types.sv
+!i122 0
+L0 1 89
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1768240878.000000
+!s107 tb/tb_data_types.sv|
+!s90 -work|work|tb/tb_data_types.sv|
+!i113 1
+o-work work
+tCvgOpt 0

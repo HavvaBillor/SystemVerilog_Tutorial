@@ -1,0 +1,51 @@
+# vsim -c -work work tb_data_types -do "run -all; quit" 
+# Start time: 21:01:19 on Jan 12,2026
+# Loading sv_std.std
+# Loading work.tb_data_types
+# run -all
+# ------Baslangic varsayilan degerleri------
+# bit            = 0
+# logic          = x
+# reg            = x
+# wire           = x
+# byte           = 0
+# shortint       = 0
+# int            = 0
+# longint        = 0
+# integer        = x
+# time           = 0
+# real           = 0.000000
+# shortreal      = 0.000000
+# string         = ""(uzunluk = 0)
+# 
+#  ----- [Atanmis signed degerleri] / Signed ise negatif olmalidir --------
+# bit            = 1
+# logic          = 1
+# reg            = 1
+# wire           = x
+# byte           = -100
+# shortint       = -30000
+# int            = -12345678
+# longint        = -1234567890123456
+# integer        = -42
+# time           = -500
+# real           = -3.141592
+# shortreal      = -2.710000
+# string         = "SystemVerilog"(uzunluk = 13)
+# 
+# -----------[$bits() ile bit genislikleri]---------
+# $bits(bit)         = 1
+# $bits(logic)       = 1
+# $bits(reg)         = 1
+# $bits(byte )       = 8
+# $bits(shortint)    = 16
+# $bits(int)         = 32
+# $bits(longint)     = 64
+# $bits(integer)     = 32
+# $bits(time)        = 64
+# $bits(real)        = 0
+# $bits(shortreal)   = 0
+# string             = "104"(uzunluk = 13)
+#  quit
+# End time: 21:01:20 on Jan 12,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
