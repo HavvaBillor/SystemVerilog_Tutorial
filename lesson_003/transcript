@@ -1,0 +1,18 @@
+# vsim -c -work work tb_general -do "run -all; quit" 
+# Start time: 12:20:19 on Jan 13,2026
+# Loading sv_std.std
+# Loading work.tb_general
+# run -all
+# data : 10110
+# data : 101100
+# data : 1011000
+# data : 10110000
+# -----------------
+#  count : 5
+# ** Note: $stop    : tb/tb_general.sv(106)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_general
+# Break in Module tb_general at tb/tb_general.sv line 106
+# Stopped at tb/tb_general.sv line 106
+#  quit
+# End time: 12:20:20 on Jan 13,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
