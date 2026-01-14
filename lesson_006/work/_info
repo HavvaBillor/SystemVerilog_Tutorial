@@ -1,0 +1,136 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/subat/SystemVerilog_Tutorial/lesson_006
+vcount_fifo
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1768408665
+!i10b 1
+!s100 GC^K?L>UDU;zz`KY4zBG`1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IWQlRGfBQh1458LmoQQgMH3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+Z5 w1768396895
+Z6 8rtl/fifo.sv
+Z7 Frtl/fifo.sv
+!i122 2
+L0 6 55
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1768408665.000000
+Z10 !s107 rtl/uart_tx.sv|rtl/fifo.sv|
+Z11 !s90 -work|work|rtl/fifo.sv|rtl/uart_tx.sv|
+!i113 1
+Z12 o-work work
+Z13 tCvgOpt 0
+vle_fifo
+R1
+R2
+!i10b 1
+!s100 4k_g^61T::;>`iIYXi>hn2
+R3
+IRmn[mSi88E2Ia51^OK[j23
+R4
+S1
+R0
+R5
+R6
+R7
+!i122 2
+L0 63 46
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vtb_uart_tx
+R1
+R2
+!i10b 1
+!s100 >0M;d;zKVC6f>Q`ZEo]ei1
+R3
+IFUhjTfUeh<cVVVc@O5CRK1
+R4
+S1
+R0
+w1768408612
+8tb/tb_uart_tx.sv
+Ftb/tb_uart_tx.sv
+!i122 3
+L0 3 130
+R8
+r1
+!s85 0
+31
+R9
+!s107 tb/tb_uart_tx.sv|
+!s90 -work|work|tb/tb_uart_tx.sv|
+!i113 1
+R12
+R13
+vuart_tx
+R1
+R2
+!i10b 1
+!s100 BSb[DVFB[3@N=EK^mCIX11
+R3
+I1o0jc459;<;@:7Mad9R_^3
+R4
+S1
+R0
+w1768407855
+8rtl/uart_tx.sv
+Frtl/uart_tx.sv
+!i122 2
+L0 16 150
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vwbit_fifo
+R1
+R2
+!i10b 1
+!s100 1OQzU0o<h[4Lj7bC?Z1_m3
+R3
+I4[M8bH8j39<zVg3i3;5gM3
+R4
+S1
+R0
+R5
+R6
+R7
+!i122 2
+L0 110 49
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13

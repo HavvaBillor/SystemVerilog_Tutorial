@@ -1,0 +1,67 @@
+# vsim -c -work work tb_uart_tx -do "run -all; quit" 
+# Start time: 19:37:46 on Jan 14,2026
+# Loading sv_std.std
+# Loading work.tb_uart_tx
+# Loading work.uart_tx
+# Loading work.wbit_fifo
+# run -all
+# INFO: Starting UART TX Testbench
+# INFO: writing test data to FIFO
+# writing data: 1000001 to FIFO...
+# writing data: 1000010 to FIFO...
+# writing data: 1000011 to FIFO...
+# writing data: 1010 to FIFO...
+# INFO: Enabling TX and starting transmission
+# INFO:Verifying start bit
+# INFO: TX bit verification successful.  bit 0   is: 0
+# INFO: TX bit verification successful.  bit 1   is: 1
+# INFO: TX bit verification successful.  bit 2   is: 0
+# INFO: TX bit verification successful.  bit 3   is: 0
+# INFO: TX bit verification successful.  bit 4   is: 0
+# INFO: TX bit verification successful.  bit 5   is: 0
+# INFO: TX bit verification successful.  bit 6   is: 0
+# INFO: TX bit verification successful.  bit 7   is: 1
+# INFO: TX bit verification successful.  bit 8   is: 0
+# INFO:Verifying stop bit
+# INFO: TX bit verification successful.  bit 9   is: 1
+# INFO:Verifying start bit
+# INFO: TX bit verification successful.  bit 0   is: 0
+# INFO: TX bit verification successful.  bit 1   is: 0
+# INFO: TX bit verification successful.  bit 2   is: 1
+# INFO: TX bit verification successful.  bit 3   is: 0
+# INFO: TX bit verification successful.  bit 4   is: 0
+# INFO: TX bit verification successful.  bit 5   is: 0
+# INFO: TX bit verification successful.  bit 6   is: 0
+# INFO: TX bit verification successful.  bit 7   is: 1
+# INFO: TX bit verification successful.  bit 8   is: 0
+# INFO:Verifying stop bit
+# INFO: TX bit verification successful.  bit 9   is: 1
+# INFO:Verifying start bit
+# INFO: TX bit verification successful.  bit 0   is: 0
+# INFO: TX bit verification successful.  bit 1   is: 1
+# INFO: TX bit verification successful.  bit 2   is: 1
+# INFO: TX bit verification successful.  bit 3   is: 0
+# INFO: TX bit verification successful.  bit 4   is: 0
+# INFO: TX bit verification successful.  bit 5   is: 0
+# INFO: TX bit verification successful.  bit 6   is: 0
+# INFO: TX bit verification successful.  bit 7   is: 1
+# INFO: TX bit verification successful.  bit 8   is: 0
+# INFO:Verifying stop bit
+# INFO: TX bit verification successful.  bit 9   is: 1
+# INFO:Verifying start bit
+# INFO: TX bit verification successful.  bit 0   is: 0
+# INFO: TX bit verification successful.  bit 1   is: 0
+# INFO: TX bit verification successful.  bit 2   is: 1
+# INFO: TX bit verification successful.  bit 3   is: 0
+# INFO: TX bit verification successful.  bit 4   is: 1
+# INFO: TX bit verification successful.  bit 5   is: 0
+# INFO: TX bit verification successful.  bit 6   is: 0
+# INFO: TX bit verification successful.  bit 7   is: 0
+# INFO: TX bit verification successful.  bit 8   is: 0
+# INFO:Verifying stop bit
+# INFO: TX bit verification successful.  bit 9   is: 1
+# INFO:All data transmitted. Waiting for final state...
+# ** Note: $finish    : tb/tb_uart_tx.sv(128)
+#    Time: 41840 ns  Iteration: 0  Instance: /tb_uart_tx
+# End time: 19:37:47 on Jan 14,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
