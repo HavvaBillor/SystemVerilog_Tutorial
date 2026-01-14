@@ -1,0 +1,15 @@
+# vsim -c -work work tb_task_function -do "run -all; quit" 
+# Start time: 14:39:50 on Jan 14,2026
+# Loading sv_std.std
+# Loading work.tb_task_function
+# run -all
+# A: 5, B: 3, Result: 8
+# A: 5, B: 3, Result: 8, Diff : 2
+# A: 0, B: 1, Result: 1
+# ** Note: $stop    : tb/tb_task_function.sv(72)
+#    Time: 140 ns  Iteration: 0  Instance: /tb_task_function
+# Break in Module tb_task_function at tb/tb_task_function.sv line 72
+# Stopped at tb/tb_task_function.sv line 72
+#  quit
+# End time: 14:39:51 on Jan 14,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
