@@ -1,0 +1,42 @@
+# vsim -c -work work tb_static_arrays -do "run -all; quit" 
+# Start time: 14:22:39 on Jan 16,2026
+# Loading sv_std.std
+# Loading work.tb_static_arrays
+# run -all
+# UNPACKED 1 : 0 0 0 0
+# UNPACKED 0 : 0 0 0 0
+# ------------------------------
+# PACKED arr2d_pack1 1 : 1
+# PACKED arr2d_pack1 0 : 3
+# ------------------------------
+# PACKED arr2d_pack2 7 : 0
+# PACKED arr2d_pack2 6 : 0
+# PACKED arr2d_pack2 5 : 0
+# PACKED arr2d_pack2 4 : 1
+# PACKED arr2d_pack2 3 : 0
+# PACKED arr2d_pack2 2 : 0
+# PACKED arr2d_pack2 1 : 1
+# PACKED arr2d_pack2 0 : 1
+# -------$dimensions------------
+# Dimensions of arr2d:       2
+# Dimensions of arr2d_pack1: 2
+# Dimensions of arr2d_pack2: 1
+# Dimensions of mem:         2
+# -----$unpacked_dimensions-----
+# Dimensions of arr2d:       2
+# Dimensions of arr2d_pack1: 0
+# Dimensions of arr2d_pack2: 0
+# Dimensions of mem:         1
+# -----$size eleman sayisi-------
+# Size of arr2d:       2
+# Size of arr2d_pack1: 2
+# Size of arr2d_pack2: 8
+# Size of mem:         8
+# ------$bits toplam boyut------
+# Size of arr2d:       8
+# Size of arr2d_pack1: 8
+# Size of arr2d_pack2: 8
+# Size of mem:         256
+#  quit
+# End time: 14:22:40 on Jan 16,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
