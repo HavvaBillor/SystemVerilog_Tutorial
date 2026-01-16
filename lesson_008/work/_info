@@ -1,0 +1,36 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/subat/SystemVerilog_Tutorial/lesson_008
+vtb_dynamic_arrays
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1768564761
+!i10b 1
+!s100 `K2>lWikXO@SLjMj<VAGC1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+InUOOZ_h>Bh4J]MI[kB7iR1
+VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1768564678
+8tb/tb_dynamic_arrays.sv
+Ftb/tb_dynamic_arrays.sv
+!i122 1
+L0 3 90
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1768564761.000000
+!s107 tb/tb_dynamic_arrays.sv|
+!s90 -work|work|tb/tb_dynamic_arrays.sv|
+!i113 1
+o-work work
+tCvgOpt 0

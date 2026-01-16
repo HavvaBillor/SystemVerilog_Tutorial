@@ -1,0 +1,17 @@
+# vsim -c -work work tb_dynamic_arrays -do "run -all; quit" 
+# Start time: 14:59:22 on Jan 16,2026
+# Loading sv_std.std
+# Loading work.tb_dynamic_arrays
+# run -all
+# array size: 8
+# array new[] size: 16
+# array delete() size: 0
+# assoc_arr1[10]: 7
+# ev fiyati: 7
+# my_que0: 5
+# my_que1: 1
+# my_que2: 2
+# my_que3: 0
+#  quit
+# End time: 14:59:23 on Jan 16,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
