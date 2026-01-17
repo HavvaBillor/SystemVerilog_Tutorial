@@ -1,0 +1,242 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/subat/SystemVerilog_Tutorial/lesson_010
+vcount_fifo
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1768661644
+!i10b 1
+!s100 GC^K?L>UDU;zz`KY4zBG`1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IWQlRGfBQh1458LmoQQgMH3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+Z5 w1768653936
+Z6 8rtl/fifo.sv
+Z7 Frtl/fifo.sv
+!i122 4
+L0 6 55
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1768661644.000000
+Z10 !s107 rtl/uart_tx.sv|rtl/uart_if.sv|rtl/fifo.sv|
+Z11 !s90 -work|work|rtl/fifo.sv|rtl/uart_if.sv|rtl/uart_tx.sv|
+!i113 1
+Z12 o-work work
+Z13 tCvgOpt 0
+vle_fifo
+R1
+R2
+!i10b 1
+!s100 4k_g^61T::;>`iIYXi>hn2
+R3
+IRmn[mSi88E2Ia51^OK[j23
+R4
+S1
+R0
+R5
+R6
+R7
+!i122 4
+L0 63 46
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vtb_uart_tx
+R1
+Z14 DXx4 work 8 uart_pkg 0 22 PTlYHj5ocC4W]SgjY:a8O1
+DXx4 work 18 tb_uart_tx_sv_unit 0 22 nPam@EmFAG?e2knZT9[LT3
+R2
+R4
+r1
+!s85 0
+!i10b 1
+!s100 JoJTEF[>9o^B3g<8XQ7Z82
+IMHDm6jTZKhZgm5C>TeODL3
+!s105 tb_uart_tx_sv_unit
+S1
+R0
+Z15 w1768658848
+Z16 8tb/tb_uart_tx.sv
+Z17 Ftb/tb_uart_tx.sv
+!i122 5
+L0 4 108
+R8
+31
+R9
+!s107 tb/tb_uart_tx.sv|
+Z18 !s90 -work|work|tb/tb_uart_tx.sv|
+!i113 1
+R12
+R13
+Xtb_uart_tx_sv_unit
+R1
+R14
+R2
+VnPam@EmFAG?e2knZT9[LT3
+r1
+!s85 0
+!i10b 1
+!s100 X>]e[<5[@Z0kDha=n<5BZ0
+InPam@EmFAG?e2knZT9[LT3
+!i103 1
+S1
+R0
+R15
+R16
+R17
+!i122 5
+L0 2 0
+R8
+31
+R9
+Z19 !s107 tb/tb_uart_tx.sv|
+R18
+!i113 1
+R12
+R13
+Yuart_if
+R1
+R2
+!i10b 1
+!s100 c?@Q5ePM8JUSHSngIlJKV0
+R3
+I4RUL5;W^c?kZ;=l]e2Ed:3
+R4
+S1
+R0
+w1768653939
+8rtl/uart_if.sv
+Frtl/uart_if.sv
+!i122 4
+L0 3 0
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Xuart_pkg
+R1
+R2
+!i10b 1
+!s100 ZQemlGOdl3L>Ua`;F9nES1
+R3
+IPTlYHj5ocC4W]SgjY:a8O1
+VPTlYHj5ocC4W]SgjY:a8O1
+S1
+R0
+w1768659266
+8pkg/uart_pkg.sv
+Fpkg/uart_pkg.sv
+!i122 3
+L0 5 0
+R8
+r1
+!s85 0
+31
+R9
+!s107 pkg/uart_pkg.sv|
+!s90 -work|work|pkg/uart_pkg.sv|
+!i113 1
+R12
+R13
+vuart_tx
+R1
+R14
+DXx4 work 15 uart_tx_sv_unit 0 22 ;zJO8BPj=9_@RDUVL?R@W2
+R2
+R4
+r1
+!s85 0
+!i10b 1
+!s100 AQNB5`hJ>J?7TkWW;Lde52
+ITV`[;;WP^9QlBlC[eQD]]0
+!s105 uart_tx_sv_unit
+S1
+R0
+Z20 w1768659877
+Z21 8rtl/uart_tx.sv
+Z22 Frtl/uart_tx.sv
+!i122 4
+L0 15 138
+R8
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Xuart_tx_sv_unit
+R1
+R14
+R2
+V;zJO8BPj=9_@RDUVL?R@W2
+r1
+!s85 0
+!i10b 1
+!s100 ce3;>VRz0`9Xbon3KgSB=1
+I;zJO8BPj=9_@RDUVL?R@W2
+!i103 1
+S1
+R0
+R20
+R21
+R22
+!i122 4
+L0 13 0
+R8
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vwbit_fifo
+R1
+R2
+!i10b 1
+!s100 1OQzU0o<h[4Lj7bC?Z1_m3
+R3
+I4[M8bH8j39<zVg3i3;5gM3
+R4
+S1
+R0
+R5
+R6
+R7
+!i122 4
+L0 110 49
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
