@@ -1,0 +1,22 @@
+# vsim -c -work work tb_fork_join -do "vcd file wave.vcd; vcd add -r /*; run -all; quit" 
+# Start time: 20:35:59 on Jan 17,2026
+# Loading sv_std.std
+# Loading work.tb_fork_join
+# vcd file wave.vcd
+#  vcd add -r /*
+# ** UI-Msg (suppressible): (vsim-3561) No objects found matching '*'.
+#  run -all
+# -------------------------------------
+# >>> disable fork ornegi <<<
+# islem 1 (disable fork): 4000 ns
+# display fork ornegi bitti: 15000 ns
+# -------------------------------------
+# >>> wait fork ornegi <<<
+# islem 1 (wait fork): 20000 ns
+# islem 2 (wait fork): 27000 ns
+# wait fork ornegi bitti: 27000 ns
+# -------------------------------------
+# ** Note: $finish    : tb/tb_fork_join.sv(83)
+#    Time: 27 ns  Iteration: 0  Instance: /tb_fork_join
+# End time: 20:36:00 on Jan 17,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
