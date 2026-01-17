@@ -1,0 +1,18 @@
+# vsim -c -work work tb_design_rand -do "vcd file wave.vcd; vcd add -r /*; run -all; quit" 
+# Start time: 22:30:14 on Jan 17,2026
+# Loading sv_std.std
+# Loading work.tb_design_rand
+# Loading work.design_rand
+# vcd file wave.vcd
+#  vcd add -r /*
+#  run -all
+# ** Fatal: (vsim-7099) Unable to check out a verification license for the randomize() feature.
+#    Time: 10 ns  Iteration: 0  Process: /tb_design_rand/#INITIAL#15 File: tb/tb_design_rand.sv Line: 22
+# Fatal error in Module tb_design_rand at tb/tb_design_rand.sv line 22
+# 
+# HDL call sequence:
+# Stopped at tb/tb_design_rand.sv 22 Module tb_design_rand
+# 
+#  quit
+# End time: 22:30:15 on Jan 17,2026, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0

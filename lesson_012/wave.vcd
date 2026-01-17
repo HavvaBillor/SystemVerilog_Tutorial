@@ -1,0 +1,43 @@
+$date
+	Sat Jan 17 22:30:15 2026
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module tb_design_rand $end
+$var reg 4 ! a [3:0] $end
+$var reg 4 " b [3:0] $end
+$var reg 4 # c [3:0] $end
+
+$scope module dut $end
+$var wire 1 $ a [3] $end
+$var wire 1 % a [2] $end
+$var wire 1 & a [1] $end
+$var wire 1 ' a [0] $end
+$var wire 1 ( b [3] $end
+$var wire 1 ) b [2] $end
+$var wire 1 * b [1] $end
+$var wire 1 + b [0] $end
+$var reg 4 , c [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+b0 "
+b0 #
+b0 ,
+0'
+0&
+0%
+0$
+0+
+0*
+0)
+0(
+$end

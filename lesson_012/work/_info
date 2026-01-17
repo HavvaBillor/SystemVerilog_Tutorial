@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/subat/SystemVerilog_Tutorial/lesson_012
+vdesign_rand
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1768678213
+!i10b 1
+!s100 fMU[k?ZAlL?HP[k?ikaQd0
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3kB23nO1UWFdcI5ZT@Xi;0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1768676411
+8rtl/design_rand.sv
+Frtl/design_rand.sv
+!i122 13
+L0 1 9
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1768678213.000000
+!s107 rtl/design_rand.sv|
+!s90 -work|work|rtl/design_rand.sv|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vtb_design_rand
+R1
+R2
+!i10b 1
+!s100 CB9S_B3mO9<PS_0IFI4gV2
+R3
+If5^I`3RNYlVQDn>O77B3h3
+R4
+S1
+R0
+w1768678207
+8tb/tb_design_rand.sv
+Ftb/tb_design_rand.sv
+!i122 14
+L0 3 27
+R5
+r1
+!s85 0
+31
+R6
+!s107 tb/tb_design_rand.sv|
+!s90 -work|work|tb/tb_design_rand.sv|
+!i113 1
+R7
+R8
+vtb_rand
+R1
+!s110 1768676816
+!i10b 1
+!s100 8G<:G9>h2`nH3>]mc7`>P1
+R3
+ICF?P1mTN^5S;OI3hQG]n72
+R4
+S1
+R0
+w1768676811
+8tb/tb_rand.sv
+Ftb/tb_rand.sv
+!i122 1
+L0 3 25
+R5
+r1
+!s85 0
+31
+!s108 1768676815.000000
+!s107 tb/tb_rand.sv|
+!s90 -work|work|tb/tb_rand.sv|
+!i113 1
+R7
+R8
