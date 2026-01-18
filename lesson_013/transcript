@@ -1,0 +1,29 @@
+# vsim -c -work work tb_uart_rx -do "vcd file wave.vcd; vcd add -r /*; run -all; quit" 
+# Start time: 15:43:05 on Jan 18,2026
+# Loading sv_std.std
+# Loading work.tb_uart_rx
+# Loading work.uart_rx
+# Loading work.wbit_fifo
+# vcd file wave.vcd
+#  vcd add -r /*
+#  run -all
+# INFO: Starting UART RX Testbench...
+# INFO: Sending test data via simulated TX...
+# Sending data 'h41 = 'b1000001...
+# Sending data 'h42 = 'b1000010...
+# Sending data 'h43 = 'b1000011...
+# Sending data 'ha = 'b1010...
+# INFO: All data sent. Waiting for DUT to receive...
+# INFO: Data received  succesfully: 'h41
+# INFO: Data received  succesfully: 'h42
+# INFO: Data received  succesfully: 'h43
+# INFO: Data received  succesfully: 'ha
+# INFO: All data received and verified. FIFO is empty
+# INFO: Sending one more byte to test the end-to-end logic
+# Sending data 'h5a = 'b1011010...
+# INFO: Data received  succesfully: 'h5a
+# INFO: Test finished successfully
+# ** Note: $finish    : tb/tb_uart_rx.sv(147)
+#    Time: 52245 ns  Iteration: 0  Instance: /tb_uart_rx
+# End time: 15:43:06 on Jan 18,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
